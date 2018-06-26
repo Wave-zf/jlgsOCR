@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java-OCR:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_OCR_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-OCR" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="java-OCR/web/Web" />
+    </root>
+  </artifact>
+</component>
